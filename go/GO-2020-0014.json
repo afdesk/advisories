@@ -1,0 +1,1 @@
+{"id": "GO-2020-0014", "description": "html.Parse does not properly handle \"select\" tags, which can lead to an infinite loop. If parsing user supplied input, this may be used as a denial of service vector.", "title": null, "aliases": ["CVE-2018-17846"], "severity": null, "cvss_v3_score": null, "cvss_v3_vector": null}

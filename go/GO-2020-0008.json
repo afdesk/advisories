@@ -1,0 +1,1 @@
+{"id": "GO-2020-0008", "description": "DNS message transaction IDs are generated using math/rand which makes them relatively predictable. This reduces the complexity of response spoofing attacks against DNS clients.", "title": null, "aliases": ["CVE-2019-19794", "GHSA-44r7-7p62-q3fr"], "severity": null, "cvss_v3_score": null, "cvss_v3_vector": null}

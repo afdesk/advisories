@@ -1,0 +1,1 @@
+{"id": "GHSA-2g5j-5x95-r6hr", "description": "HashiCorp go-slug before 0.5.0 does not address attempts at directory traversal involving ../ and symlinks.", "title": null, "aliases": ["CVE-2020-29529"], "severity": null, "cvss_v3_score": null, "cvss_v3_vector": null}
